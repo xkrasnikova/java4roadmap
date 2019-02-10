@@ -1,7 +1,0 @@
-Recommended heart rate for you:
-- at easy activity zone: from 128 to 142
-- at beginning fat burning zone: from 142 to 157
-- at aerobic zone: from 157 to 171
-- at anaerobic zone: from 171 to 186
-- at VO2 max zone: from 186 to 200
-- max heart rate 200
