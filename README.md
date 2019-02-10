@@ -13,7 +13,11 @@ Based on the age and relaxed heart rate, calculate the permissible pulse values 
 1. Clone the repository on your own computer or download zip and unpack it
 2. Change inputFile.txt if needed
 3. Open Terminal in the project's folder
-4. Сompile the project:
+4. Go to task1 folder:
+```
+cd task1
+```
+5. Сompile the project:
 ```
 javac -sourcepath ./src/ -d bin src/task1/Main.java
 ```
