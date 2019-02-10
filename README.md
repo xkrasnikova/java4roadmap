@@ -15,7 +15,7 @@ Based on the age and relaxed heart rate, calculate the permissible pulse values 
 3. Open Terminal in the project's folder
 4. Сompile the project:
 ```
-javac -sourcepath ./src/ -d bin src/task1/Main.java
+javac -sourcepath ./task1/src/ -d bin task1/src/task1/Main.java
 ```
 6. Run the project:
 ```
