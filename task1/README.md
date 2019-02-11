@@ -1,6 +1,3 @@
-# java4roadmap
-hello, 
-my name is Kseniya and I am learning java =)
 ## task 1 
 ### What is the program does
 Based on the age and relaxed heart rate, calculate the permissible pulse values in cardio-zones, using the formula described by this (http://adidas.lifehacker.ru/2013/09/12/chto-takoe-chss-i-kak-rasschitat-svoyu-celevuyu -zonu-pulsa /) article.
