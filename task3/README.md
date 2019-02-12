@@ -1,4 +1,4 @@
-## task 2 
+## task 3 
 ### What is the program does
 The min and max of elements in the array (2 ways = built-in function and through manual enumeration of elements);
 ### Project structure
