@@ -1,6 +1,6 @@
 ## task 2 
 ### What is the program does
-The sum of elements in the array (2 ways = built-in function and through manual enumeration of elements);
+The min and max of elements in the array (2 ways = built-in function and through manual enumeration of elements);
 ### Project structure
 1. Main.java - the main class. There is all calculations are happens.
 2. inputFile.txt - file with input date. The first value is age, the second is relaxed heart rate
